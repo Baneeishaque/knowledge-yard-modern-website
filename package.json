@@ -1,0 +1,13 @@
+{
+    "name": "com.yourname.workshop",
+    "version": "0.0.1",
+    "displayName": "Work",
+    "dependencies": {
+        "cordova-browser": "6.0.0"
+    },
+    "cordova": {
+        "platforms": [
+            "browser"
+        ]
+    }
+}
